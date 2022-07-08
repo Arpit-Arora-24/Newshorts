@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "google-news-fr", "name": "Google News (France)" },
+      "author": "Benjamin Polge",
+      "title": "Pass vaccinal : voici les modifications apportées dans le projet de loi par les sénateurs",
+      "description": "L'article sur le pass vaccinal du projet de loi renforçant les outils de gestion de la crise sanitaire a été voté au Sénat en fin de soirée, ce mercredi 12 janvier. Plusieurs modifications importantes ont été apportées. Sénateurs et députés doivent maintenant…",
+      "url": "https://www.midilibre.fr/2022/01/13/pass-vaccinal-quelles-sont-les-modifications-apportees-dans-le-projet-de-loi-par-les-senateurs-10043199.php",
+      "urlToImage": "https://images.midilibre.fr/api/v1/images/view/61dfc0ad3e45465591346083/large/image.jpg?v=1",
+      "publishedAt": "2022-01-13T06:03:00+00:00",
+      "content": "L'article sur le pass vaccinal du projet de loi renforçant les outils de gestion de la crise sanitaire a été voté au Sénat en fin de soirée, ce mercredi 12 janvier. Plusieurs modifications importante… [+1724 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "'My dad's a fighter': Man's recovery exceeding expectations after receiving heart from genetically modified pig",
+      "description": "Dave Bennett, 57, who received the first heart transplant from a genetically modified pig, is breathing on his own, and speaking with a quiet voice.",
+      "url": "https://www.usatoday.com/story/news/health/2022/01/12/dave-bennett-heart-transplant-pig-recovery/9193886002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/13/USAT/a58ba892-8117-49a3-bec6-87d4db0ea03c-David_Bennett_jr_David_Bennett_sr_Dr_Mohiuddin.jpg?auto=webp&crop=3171,1784,x377,y772&format=pjpg&width=1200",
+      "publishedAt": "2022-01-13T04:33:03+00:00",
+      "content": "Dave Bennett, the Maryland man who received the first heart transplant from a genetically modified pig last week, continues to recover well, his doctors said late Wednesday.\r\n\"The new heart is still … [+5849 chars]"
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "PM Modi to chair meet with chief ministers on Covid-19 situation today",
+      "description": "India News: NEW DELHI: Amid surging Covid-19 cases following the emergence of Omicron variant, Prime Minister Narendra Modi will interact with the Chief Ministers.",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-chair-meet-with-chief-ministers-on-covid-19-situation-today/articleshow/88867053.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-88867050,width-1070,height-580,imgsize-24892,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-01-13T02:56:00+00:00",
+      "content": "PM Modi to chair meet with chief ministers on Covid-19 situation today\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>PM Modi to chair meet with chief ministers on Covid-19 situation today</li></ul>"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "Mica Soellner",
+      "title": "Who's counting the votes? Races for top election posts now attract big money",
+      "description": "Campaign cash is flooding secretary of state races in presidential battleground states, as the office responsible for overseeing elections becomes a hot commodity in post-2020 America, according to a new analysis.",
+      "url": "https://www.washingtontimes.com/news/2022/jan/12/whos-counting-votes-races-top-election-posts-now-a/",
+      "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2021/05/30/secretary_of_state_appointments_59022_c171-0-4689-2636_s1200x700.jpg?4075e4003cbf7fd6a225dd0bcbef2c3e4d3c07ff",
+      "publishedAt": "2022-01-12T17:25:58Z",
+      "content": "Campaign cash is flooding secretary of state races in presidential battleground states as the office responsible for overseeing elections becomes a hot commodity in post-2020 America, an analysis rel… [+3863 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+      "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+      "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T03:54:00Z",
+      "content": null
+    }
+  ]
+}
