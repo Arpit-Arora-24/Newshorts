@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Newshorts/static/css/main.abd64e84.css",
+    "main.js": "/Newshorts/static/js/main.1691f71e.js",
+    "static/js/787.e7c298fb.chunk.js": "/Newshorts/static/js/787.e7c298fb.chunk.js",
+    "index.html": "/Newshorts/index.html",
+    "main.abd64e84.css.map": "/Newshorts/static/css/main.abd64e84.css.map",
+    "main.1691f71e.js.map": "/Newshorts/static/js/main.1691f71e.js.map",
+    "787.e7c298fb.chunk.js.map": "/Newshorts/static/js/787.e7c298fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.1691f71e.js"
+  ]
+}
